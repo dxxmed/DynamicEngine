@@ -1,8 +1,8 @@
-<div align="center">
 # DynamicEngine
 ## DynamicEngine IS STILL A WORK IN PROGRESS
 ### Get DynamicEngine on the Roblox Creator Store here: NOT DONE YET
 
+<div align="center">
 A brand new engine built with custom instances.
 Build more realistic, and *dynamic* games within Roblox Studio.
 
