@@ -1,8 +1,7 @@
+<div align="center">
 # DynamicEngine
-
 ## DynamicEngine IS STILL A WORK IN PROGRESS
-
-### <div align="center"> Get DynamicEngine on the Roblox Creator Store here: NOT DONE YET </div>
+### Get DynamicEngine on the Roblox Creator Store here: NOT DONE YET
 
 A brand new engine built with custom instances.
 Build more realistic, and *dynamic* games within Roblox Studio.
@@ -12,3 +11,4 @@ What is DynamicEngine? DynamicEngine is a ***almost*** **complete** replacement 
 Built internally from just tables and metatables, it gives you the developer to extend more functionality. Feel free to add more functions to suit your game.
 
 Have fun, and thanks for reading **and or** choosing DynamicEngine!
+</div>
