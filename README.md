@@ -1,5 +1,6 @@
 # DynamicEngine
-## DynamicEngine IS STILL IN WORK
+
+## DynamicEngine IS STILL A WORK IN PROGRESS
 
 A brand new engine built with custom instances.
 Build more realistic, and *dynamic* games within Roblox Studio.
