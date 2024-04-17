@@ -8,7 +8,11 @@ Build more realistic, and *dynamic* games within Roblox Studio.
 
 What is DynamicEngine? DynamicEngine is a ***almost*** **complete** replacement for all of Roblox's basic objects and systems such as Players, Characters, etc. I've decided that I wanted to create something cool and here it is. Keep in mind that this system is not good for every game, so most of the time you're gonna want to stick with the default Roblox systems.
 
-Built internally from just tables and metatables, it gives you the developer to extend more functionality. Feel free to add more functions to suit your game.
+Built internally from just tables and metatables, it gives you the developer the ability to extend more functionality to the engine. Feel free to add more functions to suit your game.
+
+With a built-in secure anti-cheat, you won't have to worry too much (although you still should if you feel like it would be better to).
+
+Your code writtin in the **Blackhole** langauge in your DynamicScripts are interally parsed and converted into Lua to be executed unless its a custom method.
 
 Have fun, and thanks for reading **and or** choosing DynamicEngine!
 </div>
