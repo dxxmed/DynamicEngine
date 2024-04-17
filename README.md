@@ -13,7 +13,7 @@ Built internally from just tables and metatables, it gives you the developer the
 
 With a built-in secure anti-cheat, you won't have to worry too much (although you still should if you feel like it would be better to).
 
-Your code writtin in the **Blackhole** langauge in your DynamicScripts are interally parsed and converted into Lua to be executed unless its a custom method.
+Your code writtin in the **Blackhole** langauge in your DynamicScripts are internally parsed and converted into Lua to be executed unless its a custom method.
 
 Have fun, and thanks for reading **and or** choosing DynamicEngine!
 </div>
