@@ -2,6 +2,7 @@ local DynamicEngine = require(path.to.module)
 
 game.Players.PlayerAdded:Connect(function(Player)
     local DynamicPlayer = DynamicEngine.new(Player)
+    local DynamicCharacter = DynamicEngine:GetDynamicCharacter(DynamicPlayer)
     -- The rest of your code
 end)
 
